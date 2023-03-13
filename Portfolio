@@ -14,7 +14,7 @@
 favorite:italicized;
 </style>
 
-<img alt="ahmed aboushady back in 2014" src="/Users/ahmedaboushady/Downloads/13754364_1191644730885977_8965404307594234183_n 2.jpg">
+<img alt="ahmed aboushady back in 2014" src="assets/picture-from-2014"/>
 <h3>about me</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
 <h3>My projects</h3>
@@ -24,5 +24,9 @@ favorite:italicized;
 <p>(347)-123-3456</p>
 <a href="mailto:fake@email.com </a>"
     git commit -m " need to edit font on the word 'favorite' "
+    
     git push origin main
     
+
+
+
